@@ -1,8 +1,14 @@
-# React + Vite
+ # 𝚂𝚘𝚖𝚎 𝚁𝚎𝚊𝚌𝚝 𝙴𝚡𝚎𝚛𝚌𝚒𝚌𝚎𝚜
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ In this repo i will try to practice as many react features that i can, in order to develop much more my knowledge;
 
-Currently, two official plugins are available:
+ # Used Technologies 
+ <div align="center">
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code>
+	<code><img width="50" src="https://github-production-user-asset-6210df.s3.amazonaws.com/62091613/261395532-b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35.png" alt="Vite" title="Vite"/></code>
+</div>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Link of deployed app: 
+[<img src="src/assets/images/left-click.png" width="10%">](https://zippy-gelato-356022.netlify.app/)

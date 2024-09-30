@@ -11,4 +11,4 @@
 </div>
 
 # Link of deployed app: 
-[<img src="src/assets/images/left-click.png" width="10%">](https://zippy-gelato-356022.netlify.app/)
+[<img src="src/assets/images/left-click.png" width="10%">](https://react-ex-nine.vercel.app/)
